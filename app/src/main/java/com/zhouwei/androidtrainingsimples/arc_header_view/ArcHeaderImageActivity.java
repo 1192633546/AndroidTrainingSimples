@@ -9,6 +9,7 @@ import com.zhouwei.androidtrainingsimples.utils.StatusBarUtils;
 
 /**
  * Created by zhouwei on 17/10/15.
+ * https://www.jianshu.com/p/db4b7290d98c
  */
 
 public class ArcHeaderImageActivity extends AppCompatActivity {
