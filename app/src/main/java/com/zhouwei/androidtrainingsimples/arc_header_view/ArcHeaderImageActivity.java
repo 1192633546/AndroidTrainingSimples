@@ -12,7 +12,7 @@ import com.zhouwei.androidtrainingsimples.utils.StatusBarUtils;
  */
 
 public class ArcHeaderImageActivity extends AppCompatActivity {
-    public static final String URL = "http://7xi8d6.com1.z0.glb.clouddn.com/20171228085004_5yEHju_Screenshot.jpeg";
+    public static final String URL = "https://upload-images.jianshu.io/upload_images/3513995-2850130819971ec7.png?imageMogr2/auto-orient/strip|imageView2/2/format/webp";
     private PerfectArcView mArcHeaderView;
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
