@@ -18,16 +18,17 @@ public class DisplayUtils {
 
     /**
      * 获取屏幕宽
+     *
      * @param context
      * @return
      */
-    public static int getScreenWidth(Context context){
+    public static int getScreenWidth(Context context) {
         Resources resources = context.getResources();
         DisplayMetrics dm = resources.getDisplayMetrics();
         return dm.widthPixels;
     }
 
-    public static int getScreenHeight(Context context){
+    public static int getScreenHeight(Context context) {
         Resources resources = context.getResources();
         DisplayMetrics dm = resources.getDisplayMetrics();
         return dm.heightPixels;

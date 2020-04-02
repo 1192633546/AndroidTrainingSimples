@@ -69,7 +69,6 @@ public class ArcHeaderView extends View {
 
 
     /**
-     *
      * @param startColor
      * @param endColor
      */
